@@ -77,7 +77,9 @@ Designed for QA workflow optimization
 📈 Improvements:
 
 🚀 Reduced manual test case creation effort by ~50%
+
 ⚡ Faster QA cycles through automation
+
 🎯 Improved test coverage with edge case detection
 
 ---
