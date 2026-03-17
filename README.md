@@ -73,6 +73,7 @@
 AI-powered system to generate test cases and edge cases from requirements
 Built using OpenAI API and Flask (LLM-based automation)
 Designed for QA workflow optimization
+
 📈 Improvements:
 
 🚀 Reduced manual test case creation effort by ~50%
