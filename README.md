@@ -69,6 +69,18 @@
 
 ---
 
+### 🔹 AI QA Assistant
+AI-powered system to generate test cases and edge cases from requirements
+Built using OpenAI API and Flask (LLM-based automation)
+Designed for QA workflow optimization
+📈 Improvements:
+
+🚀 Reduced manual test case creation effort by ~50%
+⚡ Faster QA cycles through automation
+🎯 Improved test coverage with edge case detection
+
+---
+
 ### 🔹 Optimal Timetable Generator – Constraint-Based Scheduling System
 
 📌 Automated timetable generation using optimization techniques
